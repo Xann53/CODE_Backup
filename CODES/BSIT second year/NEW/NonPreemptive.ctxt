@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NonPreemptive
+comment1.params=input
+comment1.target=void\ getProcessData(java.util.Scanner)
+comment2.params=at\ bt\ pid
+comment2.target=void\ sortAccordingArrivalTime(int[],\ int[],\ java.lang.String[])
+comment3.params=
+comment3.target=void\ NonPreemptiveAlgorithm()
+comment4.params=
+comment4.target=void\ GanttChart()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

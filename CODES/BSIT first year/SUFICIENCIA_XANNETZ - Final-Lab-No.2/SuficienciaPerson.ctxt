@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SuficienciaPerson
+comment1.params=myName\ myAddress\ myAge
+comment1.target=SuficienciaPerson(java.lang.String,\ java.lang.String,\ int)
+comment2.params=myName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=myAddress
+comment3.target=void\ setAddress(java.lang.String)
+comment4.params=myAge
+comment4.target=void\ setAge(int)
+numComments=5

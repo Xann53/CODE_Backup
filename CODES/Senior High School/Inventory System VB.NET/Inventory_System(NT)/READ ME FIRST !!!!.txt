@@ -1,0 +1,17 @@
+INVENTORY SYSTEM - VB.NET
+
+:LOGIN DETAILS:
+ 
+USERNAME: NTC   
+PASSWORD: ntc
+
+**NOTE: username is in capital, password is in small
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+THANK YOU FOR DOWNLOADING :) 

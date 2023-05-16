@@ -1,0 +1,36 @@
+Name: Xannetz V. Suficiencia
+EDP code: 77925 (9:00-10:30am)
+
+1.
+   a. int sun(int x, int y);
+   b. int sun(int x, int y);
+   c. void sun(void);
+   d. void fun(int x, float y);
+
+2.
+   a. int fun(int y)
+   b. void fun(void)
+   c. int fun(int x, int y)
+   d. void fun(int x, int y)
+
+3.
+   a. fun1();
+   b. fun1(x, y);
+   c. fun1(x);
+
+4.
+   a. void check(int x, float y, double z)
+
+
+   b. double findAbs(double num)
+	{
+	   double ans;
+	   ans = num - (num+num);
+	   return ans;
+	}
+   c. float mult(float num1, float num2)
+	{
+	   float ans;
+	   ans = num1 * num2;
+	   return ans;
+	}

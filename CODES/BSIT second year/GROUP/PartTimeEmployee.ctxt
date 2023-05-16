@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PartTimeEmployee
+comment1.params=
+comment1.target=PartTimeEmployee()
+comment2.params=pID\ fName\ lName\ bDate\ add\ pRate\ hWorked
+comment2.target=PartTimeEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=pID\ fName\ lName\ bDate\ add\ pRate\ hWorked
+comment4.target=void\ setNameRateHours(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment5.params=
+comment5.target=double\ getPayRate()
+comment6.params=
+comment6.target=double\ getHoursWorked()
+comment7.params=
+comment7.target=double\ calculatePay()
+numComments=8

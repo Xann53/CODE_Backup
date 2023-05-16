@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bread
+comment1.params=
+comment1.target=Bread()
+comment2.params=breadType\ calPerSlice
+comment2.target=Bread(java.lang.String,\ double)
+comment3.params=breadType
+comment3.target=void\ SetBreadType(java.lang.String)
+comment4.params=calPerSlice
+comment4.target=void\ SetCalPerSlice(double)
+comment5.params=
+comment5.target=java.lang.String\ GetBreadType()
+comment6.params=
+comment6.target=double\ GetCalPerSlice()
+numComments=7

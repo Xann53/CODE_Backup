@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ProductCalculatorImproved2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=productName\ productCode\ productDescription\ unitPrice\ productQuantity\ arraySize
+comment2.target=void\ userInput(java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ double[],\ int[],\ int)
+comment3.params=productName\ productCode\ productDescription\ unitPrice\ productQuantity\ counter
+comment3.target=void\ display(java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ double[],\ int[],\ int)
+comment4.params=productName\ productCode\ productDescription\ unitPrice\ productQuantity\ counter
+comment4.target=int\ data(java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ double[],\ int[],\ int)
+comment5.params=productName\ productCode\ productDescription\ unitPrice\ productQuantity\ searchChoice
+comment5.target=void\ searchItemStrings(java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ double[],\ int[],\ int)
+comment6.params=productName\ productCode\ productDescription\ productQuantity\ unitPrice\ counter\ userChoice
+comment6.target=void\ sort(java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ int[],\ double[],\ int,\ short)
+comment7.params=i\ productName\ productCode\ productDescription\ productQuantity\ unitPrice
+comment7.target=void\ ui(int,\ java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ int[],\ double[])
+comment8.params=productQuantity\ unitPrice
+comment8.target=double\ compute(int,\ double)
+comment9.params=product\ checking\ counter
+comment9.target=boolean\ checkDuplicate(java.lang.String[],\ java.lang.String,\ int)
+numComments=10

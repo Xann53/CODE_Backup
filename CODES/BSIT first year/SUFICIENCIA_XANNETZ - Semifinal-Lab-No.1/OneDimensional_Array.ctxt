@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OneDimensional_Array
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=element
+comment2.target=int\ maxIndex(int[])
+comment3.params=element
+comment3.target=int\ maxElement(int[])
+comment4.params=element
+comment4.target=int\ minElement(int[])
+comment5.params=element
+comment5.target=int\ sumElement(int[])
+comment6.params=element
+comment6.target=double\ averageElement(int[])
+comment7.params=element
+comment7.target=int\ countElement(int[])
+comment8.params=element
+comment8.target=void\ displayElement(int[])
+numComments=9

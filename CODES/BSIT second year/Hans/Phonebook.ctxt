@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Phonebook
+comment0.text=\r\n\ The\ main\ system\ class\ \r\n\ Manages\ the\ linked\ list\r\n
+comment1.params=
+comment1.target=Phonebook()
+comment1.text=\r\n\ Empty\ contructor\ for\ file\ writing\ purposes\r\n
+comment2.params=name\ numbers
+comment2.target=void\ insert(java.lang.String,\ java.util.ArrayList)
+comment2.text=\r\n\ inserts\ new\ Person\ or\ insert\ new\ contact\ to\ a\ Person\r\n\ @param\ \ \ name\ \ \ \ the\ name\ of\ person\ to\ insert\ or\ to\ add\ new\ numbers\r\n\ @param\ \ \ numbers\ number/s\ to\ add\ to\ the\ person\ \r\n
+comment3.params=names
+comment3.target=void\ view(java.util.ArrayList)
+comment3.text=\r\n\ views\ a\ Person\ or\ view\ all\ Persons\r\n\ @param\ \ \ names\ \ \ specified\ name\ to\ view,\ if\ none,\ views\ all\r\n
+comment4.params=temp
+comment4.target=void\ printNumbers(Person)
+comment4.text=\r\n\ prints\ the\ numbers\ of\ a\ Person\ with\ format\r\n\ @param\ temp\ the\ Person\ to\ print\ the\ numbers\r\n
+comment5.params=names\ numbers
+comment5.target=void\ delete(java.util.ArrayList,\ java.util.ArrayList)
+comment5.text=\r\n\ deletes\ a\ Person\ or\ a\ Person's\ contact/s\r\n\ @param\ names\ name\ of\ the\ Person\ to\ remove\r\n\ @param\ numbers\ number\ to\ remove\ from\ the\ specified\ person,\ if\ none,\ removes\ the\ Person\r\n
+comment6.params=temp\ numbers
+comment6.target=void\ removeNumber(Person,\ java.util.ArrayList)
+comment6.text=\r\n\ removes\ the\ number/s\ of\ a\ Person\ or\ removes\ the\ Person\ \r\n\ @param\ temp\ \ the\ person\ object\ to\ remove\ a\ number\r\n\ @param\ numbers\ number/s\ to\ remove\ from\ specified\ person\r\n
+comment7.params=names\ numbers
+comment7.target=void\ modify(java.util.ArrayList,\ java.util.ArrayList)
+comment7.text=\r\n\ modifies\ a\ Person's\ name\ or\ Person's\ contact/s\r\n\ @param\ names\ consists\ of\ names\ of\ person\ to\ modify\ and\ name\ to\ set\r\n\ @param\ numbers\ consists\ of\ numbers\ to\ modify\ if\ only\ one\ name\ entered\r\n
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment2.params=name\ cylinders
+comment2.target=Car(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ StartEngine()
+comment4.params=
+comment4.target=java.lang.String\ Accelerate()
+comment5.params=
+comment5.target=java.lang.String\ Brake()
+comment6.params=name
+comment6.target=void\ SetName(java.lang.String)
+comment7.params=cylinders
+comment7.target=void\ SetCylinders(int)
+comment8.params=
+comment8.target=java.lang.String\ GetName()
+comment9.params=
+comment9.target=int\ GetCylinders()
+numComments=10

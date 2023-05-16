@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ invalid()
+comment3.params=command\ val1\ val2\ val3\ val4\ i\ valid
+comment3.target=void\ checkInput(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ boolean)
+numComments=4

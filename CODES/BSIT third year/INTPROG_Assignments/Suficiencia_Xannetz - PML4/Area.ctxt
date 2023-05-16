@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Area
+comment1.params=length\ width
+comment1.target=void\ RectangleArea(double,\ double)
+comment2.params=sides
+comment2.target=void\ SquareArea(double)
+comment3.params=radius
+comment3.target=void\ CircleArea(double)
+numComments=4

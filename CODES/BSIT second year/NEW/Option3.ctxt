@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Option3
+comment1.params=operation
+comment1.target=Option3(EmployeeOperations)
+comment2.params=operation\ ID
+comment2.target=Option3(EmployeeOperations,\ java.lang.String)
+comment3.params=val
+comment3.target=boolean\ isNumber(java.lang.String)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

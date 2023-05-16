@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CollegeList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ CEmployee()
+comment3.params=
+comment3.target=void\ Faculty()
+comment4.params=
+comment4.target=void\ Student()
+comment5.params=
+comment5.target=void\ DisplayAll()
+numComments=6

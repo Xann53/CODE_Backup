@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TwoDArraySample02
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s
+comment2.target=void\ inputValues(double[][])
+comment3.params=s
+comment3.target=void\ displayValues(double[][])
+comment4.params=s\ sumRows
+comment4.target=void\ sumOfRowValues(double[][],\ double[])
+comment5.params=s\ sumCols
+comment5.target=void\ sumOfColValues(double[][],\ double[])
+comment6.params=s
+comment6.target=double\ LRDiagonal(double[][])
+comment7.params=s
+comment7.target=double\ RLDiagonal(double[][])
+comment8.params=s
+comment8.target=void\ smallest(double[][])
+comment9.params=s
+comment9.target=void\ largest(double[][])
+numComments=10

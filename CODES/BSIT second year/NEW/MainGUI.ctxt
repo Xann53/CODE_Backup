@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MainGUI
+comment1.params=
+comment1.target=MainGUI()
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=i\ processID
+comment2.target=MainGUI(int,\ java.lang.String[])
+comment3.params=
+comment3.target=void\ ChoosePreemptive()
+comment4.params=
+comment4.target=void\ ChooseNonpreemptive()
+comment5.params=
+comment5.target=void\ ClearInput()
+comment6.params=val
+comment6.target=boolean\ isNumber(java.lang.String)
+comment7.params=val
+comment7.target=boolean\ IsNotEmpty(java.lang.String)
+comment8.params=
+comment8.target=boolean\ CheckMainInput()
+comment9.params=
+comment9.target=void\ InputValues()
+comment9.text=public\ boolean\ CheckSubInput()\ {\r\n\t\t\r\n}
+numComments=12

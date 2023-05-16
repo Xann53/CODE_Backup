@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuficienciaTeacher
+comment1.params=name\ address\ age\ empId\ expertise
+comment1.target=SuficienciaTeacher(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ teacherInfo()
+numComments=3

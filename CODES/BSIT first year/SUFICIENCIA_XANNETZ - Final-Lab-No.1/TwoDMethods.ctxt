@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TwoDMethods
+comment1.params=table
+comment1.target=void\ display(java.lang.String[][])
+comment2.params=table
+comment2.target=void\ displayRev(java.lang.String[][])
+comment3.params=table
+comment3.target=void\ numWords(java.lang.String[][])
+comment4.params=table
+comment4.target=void\ numChar(java.lang.String[][])
+comment5.params=table
+comment5.target=void\ vowels(java.lang.String[][])
+comment6.params=table
+comment6.target=void\ consonants(java.lang.String[][])
+numComments=7

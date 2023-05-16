@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BytesConverter
+comment1.params=bytes
+comment1.target=void\ convertKilobytes(long)
+comment2.params=bytes
+comment2.target=void\ convertMegabytes(long)
+comment3.params=bytes
+comment3.target=void\ convertGigabytes(long)
+numComments=4

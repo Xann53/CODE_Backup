@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Something
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[]\ Input()
+comment3.params=Numbers
+comment3.target=void\ Sort(int[])
+comment4.params=Numbers
+comment4.target=void\ Search(int[])
+comment5.params=Numbers
+comment5.target=void\ Display(int[])
+numComments=6

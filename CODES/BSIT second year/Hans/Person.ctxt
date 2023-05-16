@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Serves\ as\ the\ Node\ in\ the\ Phonebook\ linked\ list\r\n
+comment1.params=
+comment1.target=Person()
+comment1.text=\r\n\ Empty\ constructor\ for\ file\ writing\ purpose\r\n
+comment2.params=name\ numbers
+comment2.target=Person(java.lang.String,\ java.util.ArrayList)
+comment2.text=\r\n\ Main\ person\ constructor\r\n\ @param\ name\ name\ of\ the\ person\r\n\ @param\ numbers\ number/s\ entered\ by\ the\ user\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Handles\ user\ command\ inputs\r\n
+comment1.params=rawInput
+comment1.target=Command(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ identifying\ the\ action,\ \r\n\ names,\ and\ numbers\ specified\ by\ the\ user\ input\r\n\ @param\ rawInput\ the\ string\ entered\ from\ the\ user\r\n
+comment2.params=c
+comment2.target=boolean\ isNumber(char)
+comment2.text=\r\n\ determines\ if\ the\ character\ is\ a\ number\r\n\ @param\ c\ char\ to\ evaluate\r\n\ @return\ true\ if\ c\ is\ 0,1,2,3,4,5,6,7,8,9.\ false\ if\ not\r\n
+comment3.params=command
+comment3.target=java.lang.String\ commandType(java.lang.String)
+comment3.text=\r\n\ determines\ the\ type\ of\ a\ sub\ command\ from\ the\ splitted\ commands\r\n\ identifies\ if\ it\ is\ a\ number\ or\ a\ name\r\n\ @param\ command\ a\ subset\ from\ commands\ entered\ from\ user\r\n\ @return\ type\ of\ sub\ command,\ 'name'\ if\ there\ are\ letters,\ 'number'\ if\ all\ digits\r\n
+comment4.params=commands
+comment4.target=boolean\ isValid(java.lang.String[])
+comment4.text=\r\n\ checks\ if\ the\ inputted\ commands\ are\ valid\r\n\ @param\ commands\ splitted\ commands\ from\ user\ input\r\n\ @return\ true\ if\ the\ commands\ are\ valid,\ false\ if\ not\r\n
+numComments=5

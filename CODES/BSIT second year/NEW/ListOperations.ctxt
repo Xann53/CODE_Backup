@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ListOperations
+comment1.params=
+comment1.target=ListOperations()
+comment10.params=
+comment10.target=boolean\ isEmpty()
+comment2.params=number
+comment2.target=void\ insertBeginning(int)
+comment3.params=number
+comment3.target=void\ insertEnd(int)
+comment4.params=
+comment4.target=void\ deleteBeginning()
+comment5.params=
+comment5.target=void\ deleteEnd()
+comment6.params=
+comment6.target=void\ displayAll()
+comment7.params=target
+comment7.target=boolean\ searchTarget(int)
+comment8.params=target
+comment8.target=void\ numOfOccurrences(int)
+comment9.params=target\ update
+comment9.target=void\ modifyValue(int,\ int)
+numComments=11

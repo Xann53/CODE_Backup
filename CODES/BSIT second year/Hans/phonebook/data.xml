@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="Phonebook" id="Phonebook0">
+  <void class="Phonebook" method="getField">
+   <string>head</string>
+   <void method="set">
+    <object idref="Phonebook0"/>
+    <object class="Person" id="Person0">
+     <void class="Person" method="getField">
+      <string>name</string>
+      <void method="set">
+       <object idref="Person0"/>
+       <string>max</string>
+      </void>
+     </void>
+     <void class="Person" method="getField">
+      <string>numbersCount</string>
+      <void method="set">
+       <object idref="Person0"/>
+       <int>2</int>
+      </void>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+<void class="Person" id="Field0" method="getField">
+ <string>numbers</string>
+ <void id="StringArray0" method="get">
+  <object idref="Person0"/>
+  <void index="1">
+   <string>1234566</string>
+  </void>
+  <void index="0">
+   <string>3211234</string>
+  </void>
+ </void>
+</void>
+<void idref="StringArray0"/>
+</java>

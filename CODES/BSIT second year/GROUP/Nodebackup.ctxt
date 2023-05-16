@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Nodebackup
+comment1.params=
+comment1.target=Nodebackup()
+comment2.params=num\ myLink
+comment2.target=Nodebackup(int,\ Nodebackup)
+numComments=3

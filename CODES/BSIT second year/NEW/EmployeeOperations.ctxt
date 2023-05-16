@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=EmployeeOperations
+comment1.params=
+comment1.target=EmployeeOperations()
+comment10.params=ID
+comment10.target=java.lang.String\ getDivision(java.lang.String)
+comment2.params=ID\ LastName\ FirstName\ MiddleName\ Dependents\ Gender\ Division
+comment2.target=void\ addEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=ID\ LastName\ FirstName\ MiddleName\ Dependents\ Gender\ Division
+comment3.target=void\ updateEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=ID
+comment4.target=boolean\ searchID(java.lang.String)
+comment5.params=ID
+comment5.target=java.lang.String\ getLastName(java.lang.String)
+comment6.params=ID
+comment6.target=java.lang.String\ getFirstName(java.lang.String)
+comment7.params=ID
+comment7.target=java.lang.String\ getMiddleInitial(java.lang.String)
+comment8.params=ID
+comment8.target=java.lang.String\ getDependents(java.lang.String)
+comment9.params=ID
+comment9.target=java.lang.String\ getGender(java.lang.String)
+numComments=11

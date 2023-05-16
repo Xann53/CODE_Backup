@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReadyQueue
+comment1.params=
+comment1.target=ReadyQueue()
+comment2.params=processName\ processPriority\ processBurst\ myLink
+comment2.target=ReadyQueue(java.lang.String,\ int,\ int,\ ReadyQueue)
+numComments=3
