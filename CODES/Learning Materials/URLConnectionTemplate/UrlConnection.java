@@ -12,6 +12,7 @@ public class UrlConnection{
             BufferedWriter output = new BufferedWriter(new FileWriter("data.txt"));
             // Get the URL from the text field
             URL url = new URL("https://gutenberg.org/cache/epub/70700/pg70700.txt");
+            //URL url = new URL("https://www.google.com/");
 
             // Open a connection to the URL
             URLConnection connection = url.openConnection();
