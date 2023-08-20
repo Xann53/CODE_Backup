@@ -1,0 +1,9 @@
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\bin\Debug\Depreciation Calculator.exe.config
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\bin\Debug\Depreciation Calculator.exe
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\bin\Debug\Depreciation Calculator.pdb
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\obj\Debug\Depreciation Calculator.csprojAssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\obj\Debug\Depreciation_Calculator.Form1.resources
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\obj\Debug\Depreciation_Calculator.Properties.Resources.resources
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\obj\Debug\Depreciation Calculator.csproj.GenerateResource.cache
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\obj\Debug\Depreciation Calculator.exe
+C:\Users\-A-J-X-B-\source\repos\Depreciation Calculator\obj\Debug\Depreciation Calculator.pdb

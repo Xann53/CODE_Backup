@@ -1,0 +1,177 @@
+Y:\VBAutoCenter\bin\VBAutoCenter.dll.config
+Y:\VBAutoCenter\bin\VBAutoCenter.dll
+Y:\VBAutoCenter\bin\VBAutoCenter.pdb
+Y:\VBAutoCenter\bin\roslyn\csc.exe
+Y:\VBAutoCenter\bin\roslyn\csc.exe.config
+Y:\VBAutoCenter\bin\roslyn\csc.rsp
+Y:\VBAutoCenter\bin\roslyn\csi.exe
+Y:\VBAutoCenter\bin\roslyn\csi.exe.config
+Y:\VBAutoCenter\bin\roslyn\csi.rsp
+Y:\VBAutoCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\VBAutoCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\VBAutoCenter\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\VBAutoCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\VBAutoCenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\VBAutoCenter\bin\roslyn\System.AppContext.dll
+Y:\VBAutoCenter\bin\roslyn\System.Collections.Immutable.dll
+Y:\VBAutoCenter\bin\roslyn\System.Console.dll
+Y:\VBAutoCenter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\VBAutoCenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\VBAutoCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\VBAutoCenter\bin\roslyn\System.Globalization.Calendars.dll
+Y:\VBAutoCenter\bin\roslyn\System.IO.Compression.dll
+Y:\VBAutoCenter\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\VBAutoCenter\bin\roslyn\System.IO.FileSystem.dll
+Y:\VBAutoCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\VBAutoCenter\bin\roslyn\System.Net.Http.dll
+Y:\VBAutoCenter\bin\roslyn\System.Net.Sockets.dll
+Y:\VBAutoCenter\bin\roslyn\System.Reflection.Metadata.dll
+Y:\VBAutoCenter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\VBAutoCenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\VBAutoCenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\VBAutoCenter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\VBAutoCenter\bin\roslyn\System.ValueTuple.dll
+Y:\VBAutoCenter\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\VBAutoCenter\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\VBAutoCenter\bin\roslyn\System.Xml.XPath.dll
+Y:\VBAutoCenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\VBAutoCenter\bin\roslyn\vbc.exe
+Y:\VBAutoCenter\bin\roslyn\vbc.exe.config
+Y:\VBAutoCenter\bin\roslyn\vbc.rsp
+Y:\VBAutoCenter\bin\roslyn\VBCSCompiler.exe
+Y:\VBAutoCenter\bin\roslyn\VBCSCompiler.exe.config
+Y:\VBAutoCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\VBAutoCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.AssemblyReference.cache
+Y:\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.CoreCompileInputs.cache
+Y:\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.CopyComplete
+Y:\VBAutoCenter\obj\Debug\VBAutoCenter.dll
+Y:\VBAutoCenter\obj\Debug\VBAutoCenter.pdb
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\VBAutoCenter.dll.config
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\VBAutoCenter.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\VBAutoCenter.pdb
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\csc.exe
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\csc.exe.config
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\csc.rsp
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\csi.exe
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\csi.exe.config
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\csi.rsp
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.AppContext.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Console.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.IO.Compression.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Net.Http.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.ValueTuple.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\vbc.exe
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\vbc.exe.config
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\vbc.rsp
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.AssemblyReference.cache
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.CoreCompileInputs.cache
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.CopyComplete
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\obj\Debug\VBAutoCenter.dll
+C:\Users\-A-J-X-B-\Desktop\XAN\SUBJECTS\1. HOMEWORK\VBAutoCenter\obj\Debug\VBAutoCenter.pdb
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.AssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.CoreCompileInputs.cache
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\obj\Debug\VBAutoCenter.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\obj\Debug\VBAutoCenter.pdb
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\VBAutoCenter.dll.config
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\VBAutoCenter.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\VBAutoCenter.pdb
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\csc.exe
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\csc.exe.config
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\csc.rsp
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\csi.exe
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\csi.exe.config
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\csi.rsp
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.AppContext.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Console.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.IO.Compression.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Net.Http.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.ValueTuple.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\vbc.exe
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\vbc.exe.config
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\vbc.rsp
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\-A-J-X-B-\source\repos\VBAutoCenter\obj\Debug\VBAutoCenter.csproj.CopyComplete

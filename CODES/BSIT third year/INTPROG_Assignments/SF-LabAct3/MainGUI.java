@@ -65,27 +65,27 @@ public class MainGUI implements ActionListener {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
     public String ReadOutput() {
-    	String tempOut = null, tempFinal = null;
-    	try {
-        	FileReader readFile = new FileReader("data.txt");
-    		BufferedReader lineReader = new BufferedReader(readFile);
-    		tempOut = lineReader.readLine();
-    		while(tempOut != null) {
-    			tempFinal = tempFinal + "/n" + tempOut;
-    			tempOut = lineReader.readLine();
-    		}
-    		lineReader.close();
-    	} catch(Exception a) {
-    		a.getStackTrace();
-    	}
-    	return tempFinal;
+        String tempOut = null, tempFinal = null;
+        try {
+            FileReader readFile = new FileReader("data.txt");
+            BufferedReader lineReader = new BufferedReader(readFile);
+            tempOut = lineReader.readLine();
+            while(tempOut != null) {
+                tempFinal = tempFinal + "/n" + tempOut;
+                tempOut = lineReader.readLine();
+            }
+            lineReader.close();
+        } catch(Exception a) {
+            a.getStackTrace();
+        }
+        return tempFinal;
     }
     public void actionPerformed(ActionEvent e) {
-    	if(e.getSource()==exitBtn){
+        if(e.getSource()==exitBtn){
             System.exit(0);
         }
-    	if(e.getSource()==loadBtn) {
-    		try {
+        if(e.getSource()==loadBtn) {
+            try {
                 BufferedWriter output = new BufferedWriter(new FileWriter("data.txt"));
                 String tempURL = urlTxtFld.getText();
                 URL url = new URL(tempURL);
@@ -95,15 +95,15 @@ public class MainGUI implements ActionListener {
                 BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
                 String line;
                 while ((line = reader.readLine()) != null) {
-                	output.write(line + "\n");
+                    output.write(line + "\n");
                 }
                 reader.close();
                 output.close();
             } catch (IOException ex) {
                 ex.printStackTrace();
             }
-    		outputTxtArea.setText(ReadOutput());
-    	}
+            outputTxtArea.setText(ReadOutput());
+        }
     }
     public static void main(String[] args) {
         new MainGUI();

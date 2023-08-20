@@ -1,0 +1,6 @@
+C:\Users\-A-J-X-B-\source\repos\Magic Square Test\bin\Debug\Magic Square Test.exe.config
+C:\Users\-A-J-X-B-\source\repos\Magic Square Test\bin\Debug\Magic Square Test.exe
+C:\Users\-A-J-X-B-\source\repos\Magic Square Test\bin\Debug\Magic Square Test.pdb
+C:\Users\-A-J-X-B-\source\repos\Magic Square Test\obj\Debug\Magic Square Test.csprojAssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\Magic Square Test\obj\Debug\Magic Square Test.exe
+C:\Users\-A-J-X-B-\source\repos\Magic Square Test\obj\Debug\Magic Square Test.pdb

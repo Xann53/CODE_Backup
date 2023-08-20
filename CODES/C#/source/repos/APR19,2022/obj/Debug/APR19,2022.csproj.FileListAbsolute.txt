@@ -1,0 +1,14 @@
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\bin\Debug\APR19,2022.exe.config
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\bin\Debug\APR19,2022.exe
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\bin\Debug\APR19,2022.pdb
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19_2022.Properties.Resources.resources
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19,2022.csproj.GenerateResource.cache
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19,2022.exe
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19,2022.pdb
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19_2022.EmployeeRegistrationForm.resources
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19_2022.ImmunizationEntry.resources
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19_2022.PatientRegistration.resources
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19_2022.ConsultationForm.resources
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19,2022.csproj.AssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19,2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\-A-J-X-B-\source\repos\APR19,2022\obj\Debug\APR19,2022.csproj.CoreCompileInputs.cache

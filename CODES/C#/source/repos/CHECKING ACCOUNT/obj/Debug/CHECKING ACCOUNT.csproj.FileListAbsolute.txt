@@ -1,0 +1,11 @@
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\bin\Debug\CHECKING ACCOUNT.exe.config
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\bin\Debug\CHECKING ACCOUNT.exe
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\bin\Debug\CHECKING ACCOUNT.pdb
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING_ACCOUNT.Form1.resources
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING_ACCOUNT.Properties.Resources.resources
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING ACCOUNT.csproj.GenerateResource.cache
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING ACCOUNT.exe
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING ACCOUNT.pdb
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING ACCOUNT.csproj.AssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING ACCOUNT.csproj.SuggestedBindingRedirects.cache
+C:\Users\-A-J-X-B-\source\repos\CHECKING ACCOUNT\obj\Debug\CHECKING ACCOUNT.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\bin\Debug\assignment_quiz.exe.config
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\bin\Debug\assignment_quiz.exe
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\bin\Debug\assignment_quiz.pdb
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\obj\Debug\assignment_quiz.csprojAssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\obj\Debug\assignment_quiz.Form1.resources
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\obj\Debug\assignment_quiz.Properties.Resources.resources
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\obj\Debug\assignment_quiz.csproj.GenerateResource.cache
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\obj\Debug\assignment_quiz.exe
+C:\Users\-A-J-X-B-\source\repos\assignment_quiz\obj\Debug\assignment_quiz.pdb

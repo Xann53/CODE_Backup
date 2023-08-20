@@ -1,0 +1,9 @@
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\bin\Debug\Midterm Lab 2 - Fractions.exe.config
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\bin\Debug\Midterm Lab 2 - Fractions.exe
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\bin\Debug\Midterm Lab 2 - Fractions.pdb
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\obj\Debug\Midterm Lab 2 - Fractions.csprojAssemblyReference.cache
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\obj\Debug\Midterm_Lab_2___Fractions.FractionForm.resources
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\obj\Debug\Midterm_Lab_2___Fractions.Properties.Resources.resources
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\obj\Debug\Midterm Lab 2 - Fractions.csproj.GenerateResource.cache
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\obj\Debug\Midterm Lab 2 - Fractions.exe
+C:\Users\-A-J-X-B-\source\repos\Midterm Lab 2 - Fractions\obj\Debug\Midterm Lab 2 - Fractions.pdb
